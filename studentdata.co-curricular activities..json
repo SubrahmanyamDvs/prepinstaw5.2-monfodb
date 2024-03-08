@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "65eafee3485c1dec6a685e79"
+  },
+  "studentid": "001",
+  "name": "Dvs",
+  "activitytype": "Sports",
+  "duration": "2 years",
+  "achievements": "Won regional championship"
+},
+{
+  "_id": {
+    "$oid": "65eafee3485c1dec6a685e7a"
+  },
+  "studentid": "002",
+  "name": "Dvss",
+  "activitytype": "Running",
+  "duration": "3 weeks",
+  "achievements": "Gold medal in School"
+},
+{
+  "_id": {
+    "$oid": "65eafee3485c1dec6a685e7b"
+  },
+  "student_id": "003",
+  "name": "Dvsss",
+  "Activity_type": "Debate Club",
+  "duration": "3 years",
+  "achievements": "Regional Debate Champion"
+}]

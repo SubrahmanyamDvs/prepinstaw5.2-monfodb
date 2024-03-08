@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "65eb00473fd0f8d4acb736ae"
+  },
+  "student_id": 1,
+  "name": "S1",
+  "grades": [
+    {
+      "subject": "math",
+      "grade": "B"
+    },
+    {
+      "subject": "physics",
+      "grade": "A"
+    }
+  ],
+  "other_info": "Math and Physics"
+},
+{
+  "_id": {
+    "$oid": "65eb00473fd0f8d4acb736af"
+  },
+  "student_id": 2,
+  "name": "S2",
+  "grades": [
+    {
+      "subject": "english",
+      "grade": "B"
+    },
+    {
+      "subject": "history",
+      "grade": "C"
+    }
+  ],
+  "other_info": "English and History"
+},
+{
+  "_id": {
+    "$oid": "65eb00473fd0f8d4acb736b0"
+  },
+  "student_id": 3,
+  "name": "S3",
+  "grades": [
+    {
+      "subject": "chemistry",
+      "grade": "A"
+    },
+    {
+      "subject": "biology",
+      "grade": "A"
+    }
+  ],
+  "other_info": "Chemistry and Biology"
+},
+{
+  "_id": {
+    "$oid": "65eb00473fd0f8d4acb736b1"
+  },
+  "student_id": 4,
+  "name": "S4",
+  "grades": [
+    {
+      "subject": "computer science",
+      "grade": "A"
+    },
+    {
+      "subject": "statistics",
+      "grade": "B"
+    }
+  ],
+  "other_info": "Computer Science and Statistics"
+}]
